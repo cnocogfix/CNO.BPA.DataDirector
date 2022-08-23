@@ -1,0 +1,14 @@
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\CNO.BPA.Validation4086.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\CNO.BPA.Validation4086.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\CNO.BPA.DataHandler.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\CNO.BPA.Framework.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\AcordWrapperClasses.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\bin\x64\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.frmCUSIPResults.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.frmCusipSearch.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.frmLoanResults.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.frmLoanSearch.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\Validation4086.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\Validation4086\obj\x64\Release\CNO.BPA.Validation4086.pdb

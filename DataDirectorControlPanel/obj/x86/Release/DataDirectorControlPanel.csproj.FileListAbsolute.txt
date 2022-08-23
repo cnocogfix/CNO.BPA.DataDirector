@@ -1,0 +1,227 @@
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.Cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.Cache
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\143750\DD\branch\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.Cache
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\143750\DD\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.Cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Oracle.ManagedDataAccess.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Json.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Memory.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Encodings.Web.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.ValueTuple.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Numerics.Vectors.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Buffers.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Json.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Memory.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Encodings.Web.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.ValueTuple.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Numerics.Vectors.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Buffers.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.exe
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\DataDirectorControlPanel.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Framework.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Oracle.ManagedDataAccess.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\AcordWrapperClasses.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Json.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Memory.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Encodings.Web.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.ValueTuple.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Numerics.Vectors.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Buffers.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.GroupValidation.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.Validation4086.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataDirector.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataHandler.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.DataValidation.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.MVI.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\CNO.BPA.PrivacyMailingValidation.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Json.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Memory.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Text.Encodings.Web.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.ValueTuple.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Numerics.Vectors.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Buffers.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.AssemblyReference.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.frmMain.resources
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.Properties.Resources.resources
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.GenerateResource.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.exe
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\DataDirectorControlPanel\obj\x86\Release\DataDirectorControlPanel.pdb

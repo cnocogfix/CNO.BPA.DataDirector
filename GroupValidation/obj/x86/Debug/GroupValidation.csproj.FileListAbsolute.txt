@@ -1,0 +1,116 @@
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.tlb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\AcordWrapperClasses.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearchResults.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearch.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\GroupValidation.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.tlb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\AcordWrapperClasses.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearchResults.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearch.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.GenerateResource.Cache
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\AcordWrapperClasses.dll
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.pdb
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.AssemblyReference.cache
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearchResults.resources
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearch.resources
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.GenerateResource.cache
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CoreCompileInputs.cache
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CopyComplete
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.tlb
+D:\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.tlb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\AcordWrapperClasses.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Json.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Memory.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.ValueTuple.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Buffers.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Json.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Memory.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.ValueTuple.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Buffers.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearchResults.resources
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearch.resources
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.GenerateResource.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\7.1 Files\BPA.net\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.GroupValidation.tlb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.Framework.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Oracle.ManagedDataAccess.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\AcordWrapperClasses.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Json.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Memory.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.ValueTuple.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Buffers.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.pdb
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\CNO.BPA.DataHandler.dll.config
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Json.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Memory.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.ValueTuple.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Buffers.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.AssemblyReference.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearchResults.resources
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.frmGroupSearch.resources
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.GenerateResource.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\GroupValidation.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.dll
+D:\ProdCodebase\CNO.BPA.DataDirector\trunk\GroupValidation\obj\x86\Debug\CNO.BPA.GroupValidation.pdb

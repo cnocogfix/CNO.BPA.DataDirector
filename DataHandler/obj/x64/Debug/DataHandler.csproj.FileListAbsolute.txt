@@ -1,0 +1,3 @@
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataHandler\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataHandler\obj\x64\Debug\CNO.BPA.DataHandler.frmTPXCredentials.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataHandler\obj\x64\Debug\DataHandler.csproj.GenerateResource.Cache

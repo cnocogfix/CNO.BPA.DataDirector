@@ -1,0 +1,35 @@
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.MVI.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.MVI.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.DataHandler.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.Framework.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\AcordWrapperClasses.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.DataHandler.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\bin\x64\Release\CNO.BPA.Framework.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.frmBridge.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.frmIndex.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.frmSelectPerson.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.frmSelectPersonRoute.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.frmWait.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.Properties.Resources.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\MVI.csproj.GenerateResource.Cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\x64\Release\CNO.BPA.MVI.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\CNO.BPA.MVI.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\CNO.BPA.MVI.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\CNO.BPA.DataHandler.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\CNO.BPA.Framework.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\AcordWrapperClasses.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\bin\x64\Release\CNO.BPA.DataHandler.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmBridge.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmIndex.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmNBOMessage.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmSelectPerson.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmSelectPersonRoute.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmWait.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.frmTerminatedMessage.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.Properties.Resources.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\MVI.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\x64\Release\CNO.BPA.MVI.pdb

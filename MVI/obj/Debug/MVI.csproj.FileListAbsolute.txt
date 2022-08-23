@@ -1,0 +1,72 @@
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\InputAccel\Client\binnt\CNO.BPA.MVI.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\InputAccel\Client\binnt\CNO.BPA.MVI.pdb
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\InputAccel\Client\binnt\CNO.BPA.MVI.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\InputAccel\Client\binnt\CNO.BPA.MVI.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.pdb
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.dll
+D:\Projects\140785\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.pdb
+D:\InputAccel\Client\binnt\CNO.BPA.MVI.dll
+D:\InputAccel\Client\binnt\CNO.BPA.MVI.pdb
+D:\Projects\145620\branch\MVI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+D:\Projects\145620\branch\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.dll
+D:\Projects\145620\branch\MVI\obj\Debug\CNO.BPA.MVI.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmNBOMessage.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.frmTerminatedMessage.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\MVI\obj\Debug\CNO.BPA.MVI.pdb
+D:\Projects\InputAccel\Client\binnt\CNO.BPA.MVI.dll
+D:\Projects\InputAccel\Client\binnt\CNO.BPA.MVI.pdb
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmBridge.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmIndex.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmNBOMessage.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPerson.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmSelectPersonRoute.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmWait.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.frmTerminatedMessage.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.Properties.Resources.resources
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\MVI.csproj.GenerateResource.Cache
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.dll
+D:\Projects\153158\CNO.BPA.DataDirector\trunk\MVI\obj\Debug\CNO.BPA.MVI.pdb

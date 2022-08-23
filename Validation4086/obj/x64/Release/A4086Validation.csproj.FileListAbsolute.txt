@@ -1,0 +1,12 @@
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.A4086Validation.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.A4086Validation.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.DataHandler.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.Framework.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\AcordWrapperClasses.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.DataHandler.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\bin\x64\Release\CNO.BPA.Framework.pdb
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\obj\x64\Release\CNO.BPA.A4086Validation.frmCusipSearch.resources
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\obj\x64\Release\A4086Validation.csproj.GenerateResource.Cache
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\obj\x64\Release\CNO.BPA.A4086Validation.dll
+C:\Users\cdpeha\Documents\Visual Studio 2008\Projects\CNO.BPA.DataDirector\trunk\A4086Validation\obj\x64\Release\CNO.BPA.A4086Validation.pdb

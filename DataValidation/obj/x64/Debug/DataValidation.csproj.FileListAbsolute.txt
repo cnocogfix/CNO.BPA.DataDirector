@@ -1,0 +1,7 @@
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\CNO.BPA.DataValidation.frmPolicySearch.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\CNO.BPA.DataValidation.frmPopMessages.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\CNO.BPA.DataValidation.frmSearchResults.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\CNO.BPA.DataValidation.frmStopMessage.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\CNO.BPA.DataValidation.Properties.Resources.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\DataValidation\obj\x64\Debug\DataValidation.csproj.GenerateResource.Cache

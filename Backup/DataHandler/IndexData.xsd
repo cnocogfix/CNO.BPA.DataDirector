@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IndexData" targetNamespace="http://tempuri.org/IndexData.xsd" xmlns:mstns="http://tempuri.org/IndexData.xsd" xmlns="http://tempuri.org/IndexData.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="IndexData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="IndexData" msprop:Generator_DataSetName="IndexData">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DD_ITEM" msprop:Generator_UserTableName="DD_ITEM" msprop:Generator_RowDeletedName="DD_ITEMRowDeleted" msprop:Generator_RowChangedName="DD_ITEMRowChanged" msprop:Generator_RowClassName="DD_ITEMRow" msprop:Generator_RowChangingName="DD_ITEMRowChanging" msprop:Generator_RowEvArgName="DD_ITEMRowChangeEvent" msprop:Generator_RowEvHandlerName="DD_ITEMRowChangeEventHandler" msprop:Generator_TableClassName="DD_ITEMDataTable" msprop:Generator_TableVarName="tableDD_ITEM" msprop:Generator_RowDeletingName="DD_ITEMRowDeleting" msprop:Generator_TablePropName="DD_ITEM">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DD_ITEM_SEQ" msprop:Generator_UserColumnName="DD_ITEM_SEQ" msprop:Generator_ColumnVarNameInTable="columnDD_ITEM_SEQ" msprop:Generator_ColumnPropNameInRow="DD_ITEM_SEQ" msprop:Generator_ColumnPropNameInTable="DD_ITEM_SEQColumn" type="xs:decimal" />
+              <xs:element name="CREATE_DATE" msprop:Generator_UserColumnName="CREATE_DATE" msprop:Generator_ColumnVarNameInTable="columnCREATE_DATE" msprop:Generator_ColumnPropNameInRow="CREATE_DATE" msprop:Generator_ColumnPropNameInTable="CREATE_DATEColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UPDATE_DATE" msprop:Generator_UserColumnName="UPDATE_DATE" msprop:Generator_ColumnVarNameInTable="columnUPDATE_DATE" msprop:Generator_ColumnPropNameInRow="UPDATE_DATE" msprop:Generator_ColumnPropNameInTable="UPDATE_DATEColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UPDATE_APP_NAME" msprop:Generator_UserColumnName="UPDATE_APP_NAME" msprop:Generator_ColumnVarNameInTable="columnUPDATE_APP_NAME" msprop:Generator_ColumnPropNameInRow="UPDATE_APP_NAME" msprop:Generator_ColumnPropNameInTable="UPDATE_APP_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UPDATE_MACHINE_NAME" msprop:Generator_UserColumnName="UPDATE_MACHINE_NAME" msprop:Generator_ColumnVarNameInTable="columnUPDATE_MACHINE_NAME" msprop:Generator_ColumnPropNameInRow="UPDATE_MACHINE_NAME" msprop:Generator_ColumnPropNameInTable="UPDATE_MACHINE_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UPDATE_USER_ID" msprop:Generator_UserColumnName="UPDATE_USER_ID" msprop:Generator_ColumnVarNameInTable="columnUPDATE_USER_ID" msprop:Generator_ColumnPropNameInRow="UPDATE_USER_ID" msprop:Generator_ColumnPropNameInTable="UPDATE_USER_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BATCH_NO" msprop:Generator_UserColumnName="BATCH_NO" msprop:Generator_ColumnVarNameInTable="columnBATCH_NO" msprop:Generator_ColumnPropNameInRow="BATCH_NO" msprop:Generator_ColumnPropNameInTable="BATCH_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="F_DOC_XREF" msprop:Generator_UserColumnName="F_DOC_XREF" msprop:Generator_ColumnVarNameInTable="columnF_DOC_XREF" msprop:Generator_ColumnPropNameInRow="F_DOC_XREF" msprop:Generator_ColumnPropNameInTable="F_DOC_XREFColumn" type="xs:string" />
+              <xs:element name="CURRENT_STATUS" msprop:Generator_UserColumnName="CURRENT_STATUS" msprop:Generator_ColumnVarNameInTable="columnCURRENT_STATUS" msprop:Generator_ColumnPropNameInRow="CURRENT_STATUS" msprop:Generator_ColumnPropNameInTable="CURRENT_STATUSColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PREVIOUS_STATUS" msprop:Generator_UserColumnName="PREVIOUS_STATUS" msprop:Generator_ColumnVarNameInTable="columnPREVIOUS_STATUS" msprop:Generator_ColumnPropNameInRow="PREVIOUS_STATUS" msprop:Generator_ColumnPropNameInTable="PREVIOUS_STATUSColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="KICKER_REQUEST_ID" msprop:Generator_UserColumnName="KICKER_REQUEST_ID" msprop:Generator_ColumnVarNameInTable="columnKICKER_REQUEST_ID" msprop:Generator_ColumnPropNameInRow="KICKER_REQUEST_ID" msprop:Generator_ColumnPropNameInTable="KICKER_REQUEST_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CASE_ID" msprop:Generator_UserColumnName="CASE_ID" msprop:Generator_ColumnVarNameInTable="columnCASE_ID" msprop:Generator_ColumnPropNameInRow="CASE_ID" msprop:Generator_ColumnPropNameInTable="CASE_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TRANSACTION_ID" msprop:Generator_UserColumnName="TRANSACTION_ID" msprop:Generator_ColumnVarNameInTable="columnTRANSACTION_ID" msprop:Generator_ColumnPropNameInRow="TRANSACTION_ID" msprop:Generator_ColumnPropNameInTable="TRANSACTION_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SOURCE_ID" msprop:Generator_UserColumnName="SOURCE_ID" msprop:Generator_ColumnVarNameInTable="columnSOURCE_ID" msprop:Generator_ColumnPropNameInRow="SOURCE_ID" msprop:Generator_ColumnPropNameInTable="SOURCE_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="F_DOCNUMBER" msprop:Generator_UserColumnName="F_DOCNUMBER" msprop:Generator_ColumnVarNameInTable="columnF_DOCNUMBER" msprop:Generator_ColumnPropNameInRow="F_DOCNUMBER" msprop:Generator_ColumnPropNameInTable="F_DOCNUMBERColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DOCUSTREAM_REQUEST_ID" msprop:Generator_UserColumnName="DOCUSTREAM_REQUEST_ID" msprop:Generator_ColumnVarNameInTable="columnDOCUSTREAM_REQUEST_ID" msprop:Generator_ColumnPropNameInRow="DOCUSTREAM_REQUEST_ID" msprop:Generator_ColumnPropNameInTable="DOCUSTREAM_REQUEST_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FRONT_OFFICE_REQUEST_ID" msprop:Generator_UserColumnName="FRONT_OFFICE_REQUEST_ID" msprop:Generator_ColumnVarNameInTable="columnFRONT_OFFICE_REQUEST_ID" msprop:Generator_ColumnPropNameInRow="FRONT_OFFICE_REQUEST_ID" msprop:Generator_ColumnPropNameInTable="FRONT_OFFICE_REQUEST_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="F_DOCCLASSNAME" msprop:Generator_UserColumnName="F_DOCCLASSNAME" msprop:Generator_ColumnVarNameInTable="columnF_DOCCLASSNAME" msprop:Generator_ColumnPropNameInRow="F_DOCCLASSNAME" msprop:Generator_ColumnPropNameInTable="F_DOCCLASSNAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="THIRD_PARTY_REQUEST_ID" msprop:Generator_UserColumnName="THIRD_PARTY_REQUEST_ID" msprop:Generator_ColumnVarNameInTable="columnTHIRD_PARTY_REQUEST_ID" msprop:Generator_ColumnPropNameInRow="THIRD_PARTY_REQUEST_ID" msprop:Generator_ColumnPropNameInTable="THIRD_PARTY_REQUEST_IDColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FNP8_DOCID" msprop:Generator_UserColumnName="FNP8_DOCID" msprop:Generator_ColumnVarNameInTable="columnFNP8_DOCID" msprop:Generator_ColumnPropNameInRow="FNP8_DOCID" msprop:Generator_ColumnPropNameInTable="FNP8_DOCIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_DOCCLASSNAME" msprop:Generator_UserColumnName="FNP8_DOCCLASSNAME" msprop:Generator_ColumnVarNameInTable="columnFNP8_DOCCLASSNAME" msprop:Generator_ColumnPropNameInRow="FNP8_DOCCLASSNAME" msprop:Generator_ColumnPropNameInTable="FNP8_DOCCLASSNAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_OBJECTSTORE" msprop:Generator_UserColumnName="FNP8_OBJECTSTORE" msprop:Generator_ColumnVarNameInTable="columnFNP8_OBJECTSTORE" msprop:Generator_ColumnPropNameInRow="FNP8_OBJECTSTORE" msprop:Generator_ColumnPropNameInTable="FNP8_OBJECTSTOREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_FOLDER" msprop:Generator_UserColumnName="FNP8_FOLDER" msprop:Generator_ColumnVarNameInTable="columnFNP8_FOLDER" msprop:Generator_ColumnPropNameInRow="FNP8_FOLDER" msprop:Generator_ColumnPropNameInTable="FNP8_FOLDERColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DD_ITEM_INDEXES" msprop:Generator_UserTableName="DD_ITEM_INDEXES" msprop:Generator_RowDeletedName="DD_ITEM_INDEXESRowDeleted" msprop:Generator_RowChangedName="DD_ITEM_INDEXESRowChanged" msprop:Generator_RowClassName="DD_ITEM_INDEXESRow" msprop:Generator_RowChangingName="DD_ITEM_INDEXESRowChanging" msprop:Generator_RowEvArgName="DD_ITEM_INDEXESRowChangeEvent" msprop:Generator_RowEvHandlerName="DD_ITEM_INDEXESRowChangeEventHandler" msprop:Generator_TableClassName="DD_ITEM_INDEXESDataTable" msprop:Generator_TableVarName="tableDD_ITEM_INDEXES" msprop:Generator_RowDeletingName="DD_ITEM_INDEXESRowDeleting" msprop:Generator_TablePropName="DD_ITEM_INDEXES">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DD_ITEM_SEQ" msprop:Generator_UserColumnName="DD_ITEM_SEQ" msprop:Generator_ColumnPropNameInRow="DD_ITEM_SEQ" msprop:Generator_ColumnVarNameInTable="columnDD_ITEM_SEQ" msprop:Generator_ColumnPropNameInTable="DD_ITEM_SEQColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="INDEX_NAME" msprop:Generator_UserColumnName="INDEX_NAME" msprop:Generator_ColumnPropNameInRow="INDEX_NAME" msprop:Generator_ColumnVarNameInTable="columnINDEX_NAME" msprop:Generator_ColumnPropNameInTable="INDEX_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="INDEX_VALUE" msprop:Generator_UserColumnName="INDEX_VALUE" msprop:Generator_ColumnPropNameInRow="INDEX_VALUE" msprop:Generator_ColumnVarNameInTable="columnINDEX_VALUE" msprop:Generator_ColumnPropNameInTable="INDEX_VALUEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_INDEX_NAME" msprop:Generator_UserColumnName="FNP8_INDEX_NAME" msprop:Generator_ColumnVarNameInTable="columnFNP8_INDEX_NAME" msprop:Generator_ColumnPropNameInRow="FNP8_INDEX_NAME" msprop:Generator_ColumnPropNameInTable="FNP8_INDEX_NAMEColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="DD_ITEM_DD_ITEM_INDEXES" msdata:parent="DD_ITEM" msdata:child="DD_ITEM_INDEXES" msdata:parentkey="DD_ITEM_SEQ" msdata:childkey="DD_ITEM_SEQ" msprop:Generator_UserRelationName="DD_ITEM_DD_ITEM_INDEXES" msprop:Generator_RelationVarName="relationDD_ITEM_DD_ITEM_INDEXES" msprop:Generator_UserChildTable="DD_ITEM_INDEXES" msprop:Generator_UserParentTable="DD_ITEM" msprop:Generator_ParentPropName="DD_ITEMRow" msprop:Generator_ChildPropName="GetDD_ITEM_INDEXESRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

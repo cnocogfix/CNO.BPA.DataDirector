@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MVIFieldData" targetNamespace="http://tempuri.org/MVIFieldData.xsd" xmlns:mstns="http://tempuri.org/MVIFieldData.xsd" xmlns="http://tempuri.org/MVIFieldData.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MVIFieldData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="MVIFieldData" msprop:Generator_UserDSName="MVIFieldData">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DD_MVI_FIELD_CHOICES" msprop:Generator_UserTableName="DD_MVI_FIELD_CHOICES" msprop:Generator_RowEvArgName="DD_MVI_FIELD_CHOICESRowChangeEvent" msprop:Generator_TableVarName="tableDD_MVI_FIELD_CHOICES" msprop:Generator_TablePropName="DD_MVI_FIELD_CHOICES" msprop:Generator_RowDeletingName="DD_MVI_FIELD_CHOICESRowDeleting" msprop:Generator_RowChangingName="DD_MVI_FIELD_CHOICESRowChanging" msprop:Generator_RowDeletedName="DD_MVI_FIELD_CHOICESRowDeleted" msprop:Generator_RowEvHandlerName="DD_MVI_FIELD_CHOICESRowChangeEventHandler" msprop:Generator_TableClassName="DD_MVI_FIELD_CHOICESDataTable" msprop:Generator_RowChangedName="DD_MVI_FIELD_CHOICESRowChanged" msprop:Generator_RowClassName="DD_MVI_FIELD_CHOICESRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SITE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SITE_ID" msprop:Generator_ColumnVarNameInTable="columnSITE_ID" msprop:Generator_ColumnPropNameInTable="SITE_IDColumn" msprop:Generator_UserColumnName="SITE_ID" type="xs:string" />
+              <xs:element name="WORK_CATEGORY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="WORK_CATEGORY" msprop:Generator_ColumnVarNameInTable="columnWORK_CATEGORY" msprop:Generator_ColumnPropNameInTable="WORK_CATEGORYColumn" msprop:Generator_UserColumnName="WORK_CATEGORY" type="xs:string" />
+              <xs:element name="FIELD_NAME_PARENT_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_NAME_PARENT_VALUE" msprop:Generator_ColumnVarNameInTable="columnFIELD_NAME_PARENT_VALUE" msprop:Generator_ColumnPropNameInTable="FIELD_NAME_PARENT_VALUEColumn" msprop:Generator_UserColumnName="FIELD_NAME_PARENT_VALUE" type="xs:string" />
+              <xs:element name="FIELD_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_NAME" msprop:Generator_ColumnVarNameInTable="columnFIELD_NAME" msprop:Generator_ColumnPropNameInTable="FIELD_NAMEColumn" msprop:Generator_UserColumnName="FIELD_NAME" type="xs:string" />
+              <xs:element name="CHOICE_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CHOICE_VALUE" msprop:Generator_ColumnVarNameInTable="columnCHOICE_VALUE" msprop:Generator_ColumnPropNameInTable="CHOICE_VALUEColumn" msprop:Generator_UserColumnName="CHOICE_VALUE" type="xs:string" />
+              <xs:element name="CHOICE_DISPLAY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CHOICE_DISPLAY" msprop:Generator_ColumnVarNameInTable="columnCHOICE_DISPLAY" msprop:Generator_ColumnPropNameInTable="CHOICE_DISPLAYColumn" msprop:Generator_UserColumnName="CHOICE_DISPLAY" type="xs:string" minOccurs="0" />
+              <xs:element name="F_DOCCLASSNAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="F_DOCCLASSNAME" msprop:Generator_ColumnVarNameInTable="columnF_DOCCLASSNAME" msprop:Generator_ColumnPropNameInTable="F_DOCCLASSNAMEColumn" msprop:Generator_UserColumnName="F_DOCCLASSNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DOCUMENT_TYPE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="DOCUMENT_TYPE" msprop:Generator_ColumnVarNameInTable="columnDOCUMENT_TYPE" msprop:Generator_ColumnPropNameInTable="DOCUMENT_TYPEColumn" msprop:Generator_UserColumnName="DOCUMENT_TYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="LINE_OF_BUSINESS" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LINE_OF_BUSINESS" msprop:Generator_ColumnVarNameInTable="columnLINE_OF_BUSINESS" msprop:Generator_ColumnPropNameInTable="LINE_OF_BUSINESSColumn" msprop:Generator_UserColumnName="LINE_OF_BUSINESS" type="xs:string" minOccurs="0" />
+              <xs:element name="DEFAULT_CHOICE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="DEFAULT_CHOICE" msprop:Generator_ColumnVarNameInTable="columnDEFAULT_CHOICE" msprop:Generator_ColumnPropNameInTable="DEFAULT_CHOICEColumn" msprop:Generator_UserColumnName="DEFAULT_CHOICE" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_DOCCLASSNAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FNP8_DOCCLASSNAME" msprop:Generator_ColumnVarNameInTable="columnFNP8_DOCCLASSNAME" msprop:Generator_ColumnPropNameInTable="FNP8_DOCCLASSNAMEColumn" msprop:Generator_UserColumnName="FNP8_DOCCLASSNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_OBJECTSTORE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FNP8_OBJECTSTORE" msprop:Generator_ColumnVarNameInTable="columnFNP8_OBJECTSTORE" msprop:Generator_ColumnPropNameInTable="FNP8_OBJECTSTOREColumn" msprop:Generator_UserColumnName="FNP8_OBJECTSTORE" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_FOLDER" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FNP8_FOLDER" msprop:Generator_ColumnVarNameInTable="columnFNP8_FOLDER" msprop:Generator_ColumnPropNameInTable="FNP8_FOLDERColumn" msprop:Generator_UserColumnName="FNP8_FOLDER" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DD_MVI_FIELD_CONDITIONS" msprop:Generator_UserTableName="DD_MVI_FIELD_CONDITIONS" msprop:Generator_RowEvArgName="DD_MVI_FIELD_CONDITIONSRowChangeEvent" msprop:Generator_TableVarName="tableDD_MVI_FIELD_CONDITIONS" msprop:Generator_TablePropName="DD_MVI_FIELD_CONDITIONS" msprop:Generator_RowDeletingName="DD_MVI_FIELD_CONDITIONSRowDeleting" msprop:Generator_RowChangingName="DD_MVI_FIELD_CONDITIONSRowChanging" msprop:Generator_RowDeletedName="DD_MVI_FIELD_CONDITIONSRowDeleted" msprop:Generator_RowEvHandlerName="DD_MVI_FIELD_CONDITIONSRowChangeEventHandler" msprop:Generator_TableClassName="DD_MVI_FIELD_CONDITIONSDataTable" msprop:Generator_RowChangedName="DD_MVI_FIELD_CONDITIONSRowChanged" msprop:Generator_RowClassName="DD_MVI_FIELD_CONDITIONSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SITE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SITE_ID" msprop:Generator_ColumnVarNameInTable="columnSITE_ID" msprop:Generator_ColumnPropNameInTable="SITE_IDColumn" msprop:Generator_UserColumnName="SITE_ID" type="xs:string" />
+              <xs:element name="WORK_CATEGORY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="WORK_CATEGORY" msprop:Generator_ColumnVarNameInTable="columnWORK_CATEGORY" msprop:Generator_ColumnPropNameInTable="WORK_CATEGORYColumn" msprop:Generator_UserColumnName="WORK_CATEGORY" type="xs:string" />
+              <xs:element name="FIELD_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_NAME" msprop:Generator_ColumnVarNameInTable="columnFIELD_NAME" msprop:Generator_ColumnPropNameInTable="FIELD_NAMEColumn" msprop:Generator_UserColumnName="FIELD_NAME" type="xs:string" />
+              <xs:element name="FIELD_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_VALUE" msprop:Generator_ColumnVarNameInTable="columnFIELD_VALUE" msprop:Generator_ColumnPropNameInTable="FIELD_VALUEColumn" msprop:Generator_UserColumnName="FIELD_VALUE" type="xs:string" minOccurs="0" />
+              <xs:element name="CONDITIONAL_FIELD_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CONDITIONAL_FIELD_NAME" msprop:Generator_ColumnVarNameInTable="columnCONDITIONAL_FIELD_NAME" msprop:Generator_ColumnPropNameInTable="CONDITIONAL_FIELD_NAMEColumn" msprop:Generator_UserColumnName="CONDITIONAL_FIELD_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CONDITIONAL_FIELD_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CONDITIONAL_FIELD_VALUE" msprop:Generator_ColumnVarNameInTable="columnCONDITIONAL_FIELD_VALUE" msprop:Generator_ColumnPropNameInTable="CONDITIONAL_FIELD_VALUEColumn" msprop:Generator_UserColumnName="CONDITIONAL_FIELD_VALUE" type="xs:string" minOccurs="0" />
+              <xs:element name="CONDITIONAL_OPERATOR" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CONDITIONAL_OPERATOR" msprop:Generator_ColumnVarNameInTable="columnCONDITIONAL_OPERATOR" msprop:Generator_ColumnPropNameInTable="CONDITIONAL_OPERATORColumn" msprop:Generator_UserColumnName="CONDITIONAL_OPERATOR" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DD_MVI_FIELD_DEFINITION" msprop:Generator_UserTableName="DD_MVI_FIELD_DEFINITION" msprop:Generator_RowEvArgName="DD_MVI_FIELD_DEFINITIONRowChangeEvent" msprop:Generator_TableVarName="tableDD_MVI_FIELD_DEFINITION" msprop:Generator_TablePropName="DD_MVI_FIELD_DEFINITION" msprop:Generator_RowDeletingName="DD_MVI_FIELD_DEFINITIONRowDeleting" msprop:Generator_RowChangingName="DD_MVI_FIELD_DEFINITIONRowChanging" msprop:Generator_RowDeletedName="DD_MVI_FIELD_DEFINITIONRowDeleted" msprop:Generator_RowEvHandlerName="DD_MVI_FIELD_DEFINITIONRowChangeEventHandler" msprop:Generator_TableClassName="DD_MVI_FIELD_DEFINITIONDataTable" msprop:Generator_RowChangedName="DD_MVI_FIELD_DEFINITIONRowChanged" msprop:Generator_RowClassName="DD_MVI_FIELD_DEFINITIONRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SITE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SITE_ID" msprop:Generator_ColumnVarNameInTable="columnSITE_ID" msprop:Generator_ColumnPropNameInTable="SITE_IDColumn" msprop:Generator_UserColumnName="SITE_ID" type="xs:string" />
+              <xs:element name="WORK_CATEGORY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="WORK_CATEGORY" msprop:Generator_ColumnVarNameInTable="columnWORK_CATEGORY" msprop:Generator_ColumnPropNameInTable="WORK_CATEGORYColumn" msprop:Generator_UserColumnName="WORK_CATEGORY" type="xs:string" />
+              <xs:element name="FIELD_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_NAME" msprop:Generator_ColumnVarNameInTable="columnFIELD_NAME" msprop:Generator_ColumnPropNameInTable="FIELD_NAMEColumn" msprop:Generator_UserColumnName="FIELD_NAME" type="xs:string" />
+              <xs:element name="FIELD_LABEL" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_LABEL" msprop:Generator_ColumnVarNameInTable="columnFIELD_LABEL" msprop:Generator_ColumnPropNameInTable="FIELD_LABELColumn" msprop:Generator_UserColumnName="FIELD_LABEL" type="xs:string" minOccurs="0" />
+              <xs:element name="FN_PROP_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FN_PROP_NAME" msprop:Generator_ColumnVarNameInTable="columnFN_PROP_NAME" msprop:Generator_ColumnPropNameInTable="FN_PROP_NAMEColumn" msprop:Generator_UserColumnName="FN_PROP_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SP_PARAM_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SP_PARAM_NAME" msprop:Generator_ColumnVarNameInTable="columnSP_PARAM_NAME" msprop:Generator_ColumnPropNameInTable="SP_PARAM_NAMEColumn" msprop:Generator_UserColumnName="SP_PARAM_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="IA_MDF_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="IA_MDF_NAME" msprop:Generator_ColumnVarNameInTable="columnIA_MDF_NAME" msprop:Generator_ColumnPropNameInTable="IA_MDF_NAMEColumn" msprop:Generator_UserColumnName="IA_MDF_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="DEFAULT_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="DEFAULT_VALUE" msprop:Generator_ColumnVarNameInTable="columnDEFAULT_VALUE" msprop:Generator_ColumnPropNameInTable="DEFAULT_VALUEColumn" msprop:Generator_UserColumnName="DEFAULT_VALUE" type="xs:string" minOccurs="0" />
+              <xs:element name="FIELD_ORDER" msprop:Generator_ColumnVarNameInTable="columnFIELD_ORDER" msprop:Generator_ColumnPropNameInRow="FIELD_ORDER" msprop:Generator_ColumnPropNameInTable="FIELD_ORDERColumn" msprop:Generator_UserColumnName="FIELD_ORDER" type="xs:int" minOccurs="0" />
+              <xs:element name="LOCATION" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LOCATION" msprop:Generator_ColumnVarNameInTable="columnLOCATION" msprop:Generator_ColumnPropNameInTable="LOCATIONColumn" msprop:Generator_UserColumnName="LOCATION" type="xs:string" minOccurs="0" />
+              <xs:element name="VISIBLE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="VISIBLE" msprop:Generator_ColumnVarNameInTable="columnVISIBLE" msprop:Generator_ColumnPropNameInTable="VISIBLEColumn" msprop:Generator_UserColumnName="VISIBLE" type="xs:string" minOccurs="0" />
+              <xs:element name="REQUIRED" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="REQUIRED" msprop:Generator_ColumnVarNameInTable="columnREQUIRED" msprop:Generator_ColumnPropNameInTable="REQUIREDColumn" msprop:Generator_UserColumnName="REQUIRED" type="xs:string" minOccurs="0" />
+              <xs:element name="CONDITIONAL" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CONDITIONAL" msprop:Generator_ColumnVarNameInTable="columnCONDITIONAL" msprop:Generator_ColumnPropNameInTable="CONDITIONALColumn" msprop:Generator_UserColumnName="CONDITIONAL" type="xs:string" minOccurs="0" />
+              <xs:element name="LOCKED" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LOCKED" msprop:Generator_ColumnVarNameInTable="columnLOCKED" msprop:Generator_ColumnPropNameInTable="LOCKEDColumn" msprop:Generator_UserColumnName="LOCKED" type="xs:string" minOccurs="0" />
+              <xs:element name="REMEMBER_VALUES" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="REMEMBER_VALUES" msprop:Generator_ColumnVarNameInTable="columnREMEMBER_VALUES" msprop:Generator_ColumnPropNameInTable="REMEMBER_VALUESColumn" msprop:Generator_UserColumnName="REMEMBER_VALUES" type="xs:string" minOccurs="0" />
+              <xs:element name="MAX_LENGTH" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="MAX_LENGTH" msprop:Generator_ColumnVarNameInTable="columnMAX_LENGTH" msprop:Generator_ColumnPropNameInTable="MAX_LENGTHColumn" msprop:Generator_UserColumnName="MAX_LENGTH" type="xs:string" minOccurs="0" />
+              <xs:element name="VALIDATION" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="VALIDATION" msprop:Generator_ColumnVarNameInTable="columnVALIDATION" msprop:Generator_ColumnPropNameInTable="VALIDATIONColumn" msprop:Generator_UserColumnName="VALIDATION" type="xs:string" minOccurs="0" />
+              <xs:element name="FIELD_TYPE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_TYPE" msprop:Generator_ColumnVarNameInTable="columnFIELD_TYPE" msprop:Generator_ColumnPropNameInTable="FIELD_TYPEColumn" msprop:Generator_UserColumnName="FIELD_TYPE" type="xs:string" minOccurs="0" />
+              <xs:element name="FIELD_NAME_PARENT" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FIELD_NAME_PARENT" msprop:Generator_ColumnVarNameInTable="columnFIELD_NAME_PARENT" msprop:Generator_ColumnPropNameInTable="FIELD_NAME_PARENTColumn" msprop:Generator_UserColumnName="FIELD_NAME_PARENT" type="xs:string" minOccurs="0" />
+              <xs:element name="LOCAL_VALUE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LOCAL_VALUE" msprop:Generator_ColumnVarNameInTable="columnLOCAL_VALUE" msprop:Generator_ColumnPropNameInTable="LOCAL_VALUEColumn" msprop:Generator_UserColumnName="LOCAL_VALUE" type="xs:string" minOccurs="0" />
+              <xs:element name="MASK" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="MASK" msprop:Generator_ColumnVarNameInTable="columnMASK" msprop:Generator_ColumnPropNameInTable="MASKColumn" msprop:Generator_UserColumnName="MASK" type="xs:string" minOccurs="0" />
+              <xs:element name="REMEMBER_VALUES_CHECKED" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="REMEMBER_VALUES_CHECKED" msprop:Generator_ColumnVarNameInTable="columnREMEMBER_VALUES_CHECKED" msprop:Generator_ColumnPropNameInTable="REMEMBER_VALUES_CHECKEDColumn" msprop:Generator_UserColumnName="REMEMBER_VALUES_CHECKED" type="xs:string" default="F" minOccurs="0" />
+              <xs:element name="FN_DATE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FN_DATE" msprop:Generator_ColumnVarNameInTable="columnFN_DATE" msprop:Generator_ColumnPropNameInTable="FN_DATEColumn" msprop:Generator_UserColumnName="FN_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="FO_PARAM_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FO_PARAM_NAME" msprop:Generator_ColumnVarNameInTable="columnFO_PARAM_NAME" msprop:Generator_ColumnPropNameInTable="FO_PARAM_NAMEColumn" msprop:Generator_UserColumnName="FO_PARAM_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="TP_PARAM_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="TP_PARAM_NAME" msprop:Generator_ColumnVarNameInTable="columnTP_PARAM_NAME" msprop:Generator_ColumnPropNameInTable="TP_PARAM_NAMEColumn" msprop:Generator_UserColumnName="TP_PARAM_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="FNP8_PROP_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="FNP8_PROP_NAME" msprop:Generator_ColumnVarNameInTable="columnFNP8_PROP_NAME" msprop:Generator_ColumnPropNameInTable="FNP8_PROP_NAMEColumn" msprop:Generator_UserColumnName="FNP8_PROP_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="INVOICE_PARAM_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="INVOICE_PARAM_NAME" msprop:Generator_ColumnVarNameInTable="columnINVOICE_PARAM_NAME" msprop:Generator_ColumnPropNameInTable="INVOICE_PARAM_NAMEColumn" msprop:Generator_UserColumnName="INVOICE_PARAM_NAME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DD_MVI_AWD_LOB_DEFINITION" msprop:Generator_UserTableName="DD_MVI_AWD_LOB_DEFINITION" msprop:Generator_RowEvArgName="DD_MVI_AWD_LOB_DEFINITIONRowChangeEvent" msprop:Generator_TableVarName="tableDD_MVI_AWD_LOB_DEFINITION" msprop:Generator_TablePropName="DD_MVI_AWD_LOB_DEFINITION" msprop:Generator_RowDeletingName="DD_MVI_AWD_LOB_DEFINITIONRowDeleting" msprop:Generator_RowChangingName="DD_MVI_AWD_LOB_DEFINITIONRowChanging" msprop:Generator_RowDeletedName="DD_MVI_AWD_LOB_DEFINITIONRowDeleted" msprop:Generator_RowEvHandlerName="DD_MVI_AWD_LOB_DEFINITIONRowChangeEventHandler" msprop:Generator_TableClassName="DD_MVI_AWD_LOB_DEFINITIONDataTable" msprop:Generator_RowChangedName="DD_MVI_AWD_LOB_DEFINITIONRowChanged" msprop:Generator_RowClassName="DD_MVI_AWD_LOB_DEFINITIONRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SITE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SITE_ID" msprop:Generator_ColumnVarNameInTable="columnSITE_ID" msprop:Generator_ColumnPropNameInTable="SITE_IDColumn" msprop:Generator_UserColumnName="SITE_ID" type="xs:string" />
+              <xs:element name="WORK_CATEGORY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="WORK_CATEGORY" msprop:Generator_ColumnVarNameInTable="columnWORK_CATEGORY" msprop:Generator_ColumnPropNameInTable="WORK_CATEGORYColumn" msprop:Generator_UserColumnName="WORK_CATEGORY" type="xs:string" />
+              <xs:element name="LOB_NAME" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LOB_NAME" msprop:Generator_ColumnVarNameInTable="columnLOB_NAME" msprop:Generator_ColumnPropNameInTable="LOB_NAMEColumn" msprop:Generator_UserColumnName="LOB_NAME" type="xs:string" />
+              <xs:element name="LOB_LEVEL" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="LOB_LEVEL" msprop:Generator_ColumnVarNameInTable="columnLOB_LEVEL" msprop:Generator_ColumnPropNameInTable="LOB_LEVELColumn" msprop:Generator_UserColumnName="LOB_LEVEL" type="xs:string" />
+              <xs:element name="SOURCE" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SOURCE" msprop:Generator_ColumnVarNameInTable="columnSOURCE" msprop:Generator_ColumnPropNameInTable="SOURCEColumn" msprop:Generator_UserColumnName="SOURCE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DD_MVI_FIELD_CHOICES" />
+      <xs:field xpath="mstns:SITE_ID" />
+      <xs:field xpath="mstns:WORK_CATEGORY" />
+      <xs:field xpath="mstns:FIELD_NAME_PARENT_VALUE" />
+      <xs:field xpath="mstns:FIELD_NAME" />
+      <xs:field xpath="mstns:CHOICE_VALUE" />
+    </xs:unique>
+    <xs:unique name="DD_MVI_FIELD_DEFINITION_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DD_MVI_FIELD_DEFINITION" />
+      <xs:field xpath="mstns:SITE_ID" />
+      <xs:field xpath="mstns:WORK_CATEGORY" />
+      <xs:field xpath="mstns:FIELD_NAME" />
+    </xs:unique>
+    <xs:unique name="DD_MVI_AWD_LOB_DEFINITION_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DD_MVI_AWD_LOB_DEFINITION" />
+      <xs:field xpath="mstns:SITE_ID" />
+      <xs:field xpath="mstns:LOB_LEVEL" />
+      <xs:field xpath="mstns:LOB_NAME" />
+      <xs:field xpath="mstns:WORK_CATEGORY" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

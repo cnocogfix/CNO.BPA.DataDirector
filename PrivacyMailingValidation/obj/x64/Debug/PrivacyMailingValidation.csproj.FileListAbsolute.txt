@@ -1,0 +1,11 @@
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\CNO.BPA.PrivacyMailingValidation.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\CNO.BPA.DataHandler.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\CNO.BPA.Framework.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\AcordWrapperClasses.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\bin\x64\Debug\CNO.BPA.DataHandler.pdb
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\obj\x64\Debug\CNO.BPA.PrivacyMailingValidation.frmPrivacySearch.resources
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\obj\x64\Debug\PrivacyMailingValidation.csproj.GenerateResource.Cache
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\obj\x64\Debug\CNO.BPA.PrivacyMailingValidation.dll
+D:\Projects\145620_DD_Test\CNO.BPA.DataDirector\branch\PrivacyMailingValidation\obj\x64\Debug\CNO.BPA.PrivacyMailingValidation.pdb

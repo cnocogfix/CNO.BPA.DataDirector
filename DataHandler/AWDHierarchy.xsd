@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AWDHierarchy" targetNamespace="http://tempuri.org/AWDHierarchy.xsd" xmlns:mstns="http://tempuri.org/AWDHierarchy.xsd" xmlns="http://tempuri.org/AWDHierarchy.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AWDHierarchy" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="AWDHierarchy" msprop:Generator_UserDSName="AWDHierarchy">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Hierarchy" msprop:Generator_UserTableName="Hierarchy" msprop:Generator_RowEvArgName="HierarchyRowChangeEvent" msprop:Generator_TableVarName="tableHierarchy" msprop:Generator_TablePropName="Hierarchy" msprop:Generator_RowDeletingName="HierarchyRowDeleting" msprop:Generator_RowChangingName="HierarchyRowChanging" msprop:Generator_RowDeletedName="HierarchyRowDeleted" msprop:Generator_RowEvHandlerName="HierarchyRowChangeEventHandler" msprop:Generator_TableClassName="HierarchyDataTable" msprop:Generator_RowChangedName="HierarchyRowChanged" msprop:Generator_RowClassName="HierarchyRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="WORK_CATEGORY" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="WORK_CATEGORY" msprop:Generator_ColumnVarNameInTable="columnWORK_CATEGORY" msprop:Generator_ColumnPropNameInTable="WORK_CATEGORYColumn" msprop:Generator_UserColumnName="WORK_CATEGORY" type="xs:string" minOccurs="0" />
+              <xs:element name="STRUCTURE_SELECTION" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="STRUCTURE_SELECTION" msprop:Generator_ColumnVarNameInTable="columnSTRUCTURE_SELECTION" msprop:Generator_ColumnPropNameInTable="STRUCTURE_SELECTIONColumn" msprop:Generator_UserColumnName="STRUCTURE_SELECTION" type="xs:string" minOccurs="0" />
+              <xs:element name="SITE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SITE_ID" msprop:Generator_ColumnVarNameInTable="columnSITE_ID" msprop:Generator_ColumnPropNameInTable="SITE_IDColumn" msprop:Generator_UserColumnName="SITE_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="CASE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="CASE_ID" msprop:Generator_ColumnVarNameInTable="columnCASE_ID" msprop:Generator_ColumnPropNameInTable="CASE_IDColumn" msprop:Generator_UserColumnName="CASE_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="TRANSACTION_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="TRANSACTION_ID" msprop:Generator_ColumnVarNameInTable="columnTRANSACTION_ID" msprop:Generator_ColumnPropNameInTable="TRANSACTION_IDColumn" msprop:Generator_UserColumnName="TRANSACTION_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="SOURCE_ID" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="SOURCE_ID" msprop:Generator_ColumnVarNameInTable="columnSOURCE_ID" msprop:Generator_ColumnPropNameInTable="SOURCE_IDColumn" msprop:Generator_UserColumnName="SOURCE_ID" type="xs:string" minOccurs="0" />
+              <xs:element name="DEFAULT_SELECTION" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="DEFAULT_SELECTION" msprop:Generator_ColumnVarNameInTable="columnDEFAULT_SELECTION" msprop:Generator_ColumnPropNameInTable="DEFAULT_SELECTIONColumn" msprop:Generator_UserColumnName="DEFAULT_SELECTION" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
